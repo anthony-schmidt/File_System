@@ -3,5 +3,5 @@
 #### While in the terminal, you can format files for placement on disk, mount the disk, create inodes, cat files, and many other options that are displayed with the help command.
 
 # Contributors
-#### disk.c, disk.h, shell.c Provided by Douglas Thain
+#### disk.c, disk.h, shell.c were provided by Douglas Thain
 #### fs.h and fs.c were created by me and Nathan Piecyk

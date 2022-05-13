@@ -1,6 +1,3 @@
-/*
-ERROR when creating inode after writing
-*/
 
 #include "fs.h"
 #include "disk.h"
